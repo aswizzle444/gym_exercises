@@ -1,4 +1,4 @@
-To view deployed website via netify: https://gym-exercises444.netlify.app/ 
+To view deployed website via netlify: https://gym-exercises444.netlify.app/ 
 
 
 
